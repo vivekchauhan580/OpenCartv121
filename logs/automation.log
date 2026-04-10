@@ -1,0 +1,25 @@
+14:08:11.600 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:08:11.656 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:08:11.659 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:08:11.664 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:08:11.700 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:08:11.750 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:08:11.756 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:08:11.757 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:08:11.786 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:08:14.610 [main] INFO  TestCase.TC_LoginDDT - Broswer launched
+14:08:17.628 [main] INFO  TestCase.TC_LoginDDT - ***TC_LoginDDT started***
+14:08:18.362 [main] INFO  TestCase.TC_LoginDDT - ***login page started***
+14:08:20.427 [main] INFO  TestCase.TC_LoginDDT - ***TC_LoginDDT finished***
+14:08:24.007 [main] INFO  TestCase.TC_LoginDDT - Broswer launched
+14:08:27.021 [main] INFO  TestCase.TC_LoginDDT - ***TC_LoginDDT started***
+14:08:28.083 [main] INFO  TestCase.TC_LoginDDT - ***login page started***
+14:08:30.548 [main] INFO  TestCase.TC_LoginDDT - ***TC_LoginDDT finished***
+14:08:34.258 [main] INFO  TestCase.TC_LoginDDT - Broswer launched
+14:08:37.280 [main] INFO  TestCase.TC_LoginDDT - ***TC_LoginDDT started***
+14:08:39.592 [main] INFO  TestCase.TC_LoginDDT - ***login page started***
+14:08:42.663 [main] INFO  TestCase.TC_LoginDDT - ***TC_LoginDDT finished***
+14:08:46.613 [main] INFO  TestCase.TC_LoginDDT - Broswer launched
+14:08:49.630 [main] INFO  TestCase.TC_LoginDDT - ***TC_LoginDDT started***
+14:08:50.443 [main] INFO  TestCase.TC_LoginDDT - ***login page started***
+14:08:52.879 [main] INFO  TestCase.TC_LoginDDT - ***TC_LoginDDT finished***
